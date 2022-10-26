@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
       child: Scaffold(
         appBar: AppBar(
           title: Text(
-            'First Page',
+            'Home page',
           ),
         ),
       ),
